@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  padding: 5% ;
+  margin: 5px;
+  width: 100vw;
+  height: 100%;
+  background-color: rgb(58, 199, 255);
+  border-radius: 5px;
+}
+
+#editor, #preview {
+  color: white;
+  font-size: 12px;
+}
